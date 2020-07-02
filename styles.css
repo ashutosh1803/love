@@ -1,0 +1,80 @@
+body{
+  text-align: center;
+  font-family: 'Montserrat';
+}
+.colored{
+  background-color:  #900c3f;
+  color: #fff;
+}
+h1{
+  font-family: "Sacramento";
+  font-weight: bold;
+  font-size: 2.7rem;
+}
+h2{
+  font-size: 2.0rem;
+  font-weight: 700;
+  padding: 30px 0;
+}
+h3{
+  font-weight: 600;
+  font-size: 1.7rem;
+}
+p{
+  color: #8f8f8f;
+}
+.container-fluid{
+  padding: 7% 10%;
+}
+/* title */
+
+
+.nav-item{
+  text-align: left;
+}
+#title{
+  background-color: #511845;
+}
+.main-heading{
+  padding: 50px 0 0 30px ;
+}
+.logo{
+  font-family: 'Ubuntu';
+}
+.fas{
+  font-size: 4rem;
+  color: #900c3f;
+  padding: 15px 0;
+}
+.fas:hover{
+  color: #511845;
+}
+#Memories{
+  padding: 7% 0;
+}
+.mem{
+  padding: 7% 0;
+}
+.mem-text{
+  padding: 3% 10%;
+}
+.fooh{
+  margin: 3% 0 7%;
+}
+.gift{
+  margin: 7% 0;
+  padding: 0;
+  text-align: left;
+}
+.gift-gif{
+  padding: 0;
+}
+#Wishes{
+  background-color: #511845;
+}
+.footer {
+  padding: 7% 0 0 0;
+}
+.g{
+  margin-top: 10%;
+}
